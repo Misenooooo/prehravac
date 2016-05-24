@@ -1,0 +1,22 @@
+{
+  "name": "prehravac",
+  "version": "1.0.0",
+  "description": "prehravac do iaeste",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Misenooooo/prehravac.git"
+  },
+  "keywords": [
+    "prehravac"
+  ],
+  "author": "Michal Dolnak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Misenooooo/prehravac/issues"
+  },
+  "homepage": "https://github.com/Misenooooo/prehravac#readme"
+}

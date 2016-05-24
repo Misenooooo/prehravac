@@ -1,0 +1,21 @@
+{
+  "name": "prehravac",
+  "description": "prehravac do iaeste",
+  "main": "index.js",
+  "authors": [
+    "Michal Dolnak"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "prehravac"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
